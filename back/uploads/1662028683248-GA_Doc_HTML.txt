@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</br></br>
+    <p style="text-align: center;"><span style="font-size: 30px;"><span style="color:#365F91;"><strong>Graduate Attribute Report</strong></span></span><strong><span style="font-size:21px;">&nbsp;</span></strong></p>
+    <style>
+        td.a {
+            background-color: #E5B8B7;
+        }
+
+        td.b {
+            background-color: #D6E3BC;
+        }
+    </style>
+</head>
+<body>
+<p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:center;'><strong><span style="font-size:21px;">&nbsp;</span></strong></p>
+<p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:center;'><strong><span style="font-size:21px;">&nbsp;</span></strong></p>
+<p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:center;'><strong><span style="font-size:21px;">&nbsp;</span></strong></p>
+<p style="text-align: left;"><span style="font-size: 25px;"><span><strong>1.Program Identification</strong></span></span><strong><span style="font-size:17px;">&nbsp;</span></strong></p>
+<p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:center;'><strong><span style="font-size:21px;">&nbsp;</span></strong></p>
+<table style="width:100.02%;border-collapse:collapse;border:none;">
+    <tbody>
+        <tr>
+            <td style="width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;'><strong><span style="font-size:20px;">Program Name: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></strong></p>
+            </td>
+            <td style="width:72.68%;border-top:solid windowtext 1.5pt;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.5pt;padding:  0cm 5.4pt 0cm 5.4pt;height:25.3pt;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;'>{{ program_name }}</p>
+            </td>
+        </tr>
+       
+  <tr>
+           <td style="width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;'><strong><span style="font-size:20px;color:black;"> Category:</span></strong></p>
+            </td>
+            <td style="width:72.68%;border-top:solid windowtext 1.5pt;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.5pt;padding:  0cm 5.4pt 0cm 5.4pt;height:25.3pt;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;'>{{ program_category }}</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;'><strong><span style="font-size:20px;color:black;">Departments: &nbsp; &nbsp;&nbsp;</span></strong></p>
+            </td>
+            <td style="width:72.68%;border-top:solid windowtext 1.5pt;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.5pt;padding:  0cm 5.4pt 0cm 5.4pt;height:25.3pt;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;'>{% for item in program_department %} {{item}}&nbsp; {% endfor %} </p>
+            </td>
+        </tr>
+		  <tr>
+            <td style="width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;'><strong><span style="font-size:20px;color:black;">Colleges:</span></strong></p>
+            </td>
+            <td style="width:72.68%;border-top:solid windowtext 1.5pt;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.5pt;padding:  0cm 5.4pt 0cm 5.4pt;height:25.3pt;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;'>{% for item in program_college %} {{item}}&nbsp; {% endfor %} </p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;'><strong><span style="font-size:20px;color:black;">Institution:</span></strong></p>
+            </td>
+            <td style="width:72.68%;border-top:solid windowtext 1.5pt;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.5pt;padding:  0cm 5.4pt 0cm 5.4pt;height:25.3pt;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;'>{{ program_university }}</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<p><br></p>
+</br>
+
+<p style="text-align: left;"><span style="font-size: 25px;"><span><strong>2.Graduate Attrbute Assessment</strong></span></span><strong><span style="font-size:17px;">&nbsp;</span></strong></p>
+
+<br>
+<table style="border-collapse:collapse;">
+        <thead>
+            <tr>
+                <th style="text-align:center;width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">Gradute Attribute Name</th>
+                <th style="text-align:center;width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">Internal Benchmark</th>
+                <th style="text-align:center;width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">External Benchmark</th>
+                <th style="text-align:center;width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">Target</th>
+                <th style="text-align:center;width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">Actual Benchmark</th>
+                <th style="text-align:center;width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">Strength</th>
+                <th style="text-align:center;width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">Weakness</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for item in ga_list_by_program %}
+            <tr>
+                <td style="text-align:center;width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">{{item.ga_name}}</td>
+                <td style="text-align:center;width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">{{item.internal_benchmark}}</td>
+                <td style="text-align:center;width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">{{item.external_benchmark}}</td>
+                <td style="text-align:center;width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">{{item.target}}%</td>
+                {% if item.strength == True %}
+                <td class="b" style="text-align:center;width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">{{item.score}}%</td>
+                {% else %}
+                <td class="a" style="text-align:center;width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">{{item.score}}%</td>
+                {% endif %}
+                <td style="text-align:center;width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">{% if item.strength == True %} &#10004; {% endif %}</td>
+                <td style="text-align:center;width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">{% if item.weakness == True %} &#10004; {% endif %}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</br></br>
+<p style="text-align: left;"><span style="font-size: 25px;"><span><strong>3.Action Plan</strong></span></span><strong><span style="font-size:17px;">&nbsp;</span></strong></p>
+
+<br>
+<table style="width: 100%;margin-left: 0pt;border-collapse:collapse;border:solid;">
+        <tr>
+            <thead>
+            <tr>
+                <th style="text-align:center;width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">Recommendations</th>
+                <th style="text-align:center;width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">Actions</th>
+                <th style="text-align:center;width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">Priority</th>
+                <th style="text-align:center;width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">Responsibility for implementation</th>
+                <th style="text-align:center;width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">Start Date</th>
+                <th style="text-align:center;width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">Due Date</th>
+                <th style="text-align:center;width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">Needed Support</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for item in action_planned %}
+            <tr>
+                <td style="text-align:center;width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">{{item.recommendation}}</td>
+                <td style="text-align:center;width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">{{item.type_action}}</td>
+                <td style="text-align:center;width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">{{item.priority}}</td>
+                <td style="text-align:center;width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">{{item.assign_to_first_name}} &nbsp; {{item.assign_to_last_name}}</td>
+                <td style="text-align:center;width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">{{item.start_date}}</td>
+                <td style="text-align:center;width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">{{item.due_date}}</td>
+                <td style="text-align:center;width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">&nbsp;</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+        
+        
+    </tbody>
+</table>
+</body>
+</html>

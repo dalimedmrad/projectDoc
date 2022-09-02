@@ -1,0 +1,1172 @@
+<p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:center;'><strong><span style="font-size:21px;">&nbsp;</span></strong></p>
+<p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:center;'><strong><span style="font-size:21px;">&nbsp;</span></strong></p>
+<p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:center;'><strong><span style="font-size:21px;">&nbsp;</span></strong></p>
+<p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:center;'><strong><span style="font-size:21px;">&nbsp;</span></strong></p>
+<p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:center;'><strong><span style="font-size:21px;">&nbsp;</span></strong></p>
+<p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:center;'><strong><span style="font-size:21px;">&nbsp;</span></strong></p>
+<p style="text-align: center;"><span style="font-size: 30px;"><span style="color:blue;"><strong>Course Report</strong></span></span><strong><span style="font-size:21px;">&nbsp;</span></strong></p>
+<p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:center;'><strong><span style="font-size:21px;">&nbsp;</span></strong></p>
+<p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:center;'><span dir="RTL" style="font-size:21px;">&nbsp;</span></p>
+<p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:center;'><span dir="RTL" style="font-size:21px;">&nbsp;</span></p>
+<p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:center;'><span dir="RTL" style="font-size:21px;">&nbsp;</span></p>
+<table style="width:100.02%;border-collapse:collapse;border:none;">
+    <tbody>
+        <tr>
+            <td style="width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;'><strong><span style="font-size:20px;">Course Title: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></strong></p>
+            </td>
+            <td style="width:72.68%;border-top:solid windowtext 1.5pt;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.5pt;padding:  0cm 5.4pt 0cm 5.4pt;height:25.3pt;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;'>Statics</p>
+            </td>
+        </tr>
+        <tr>
+           <td style="width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;'><strong><span style="font-size:20px;color:black;">Course Code:</span></strong></p>
+            </td>
+            <td style="width:72.68%;border-top:solid windowtext 1.5pt;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.5pt;padding:  0cm 5.4pt 0cm 5.4pt;height:25.3pt;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;'>CE2115CE</p>
+            </td>
+        </tr>
+		 <tr>
+           <td style="width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;'><strong><span style="font-size:20px;color:black;">Program:</span></strong></p>
+            </td>
+            <td style="width:72.68%;border-top:solid windowtext 1.5pt;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.5pt;padding:  0cm 5.4pt 0cm 5.4pt;height:25.3pt;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;'>Bachelor in Civil Engineering</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;'><strong><span style="font-size:20px;color:black;">Department: &nbsp; &nbsp;&nbsp;</span></strong></p>
+            </td>
+            <td style="width:72.68%;border-top:solid windowtext 1.5pt;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.5pt;padding:  0cm 5.4pt 0cm 5.4pt;height:25.3pt;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;'>[]</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;'><strong><span style="font-size:20px;color:black;">Institution:</span></strong></p>
+            </td>
+            <td style="width:72.68%;border-top:solid windowtext 1.5pt;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.5pt;padding:  0cm 5.4pt 0cm 5.4pt;height:25.3pt;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;'>Effat University</p>
+            </td>
+        </tr>
+		<tr>
+            <td style="width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;'><strong><span style="font-size:20px;color:black;">Academic year:</span></strong></p>
+            </td>
+            <td style="width:72.68%;border-top:solid windowtext 1.5pt;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.5pt;padding:  0cm 5.4pt 0cm 5.4pt;height:25.3pt;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;'>2022</p>
+            </td>
+        </tr>
+		<tr>
+            <td style="width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;'><strong><span style="font-size:20px;color:black;">Semester:</span></strong></p>
+            </td>
+            <td style="width:72.68%;border-top:solid windowtext 1.5pt;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.5pt;padding:  0cm 5.4pt 0cm 5.4pt;height:25.3pt;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;'>semester2</p>
+            </td>
+        </tr>
+		<tr>
+            <td style="width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;'><strong><span style="font-size:20px;color:black;">Course Coordinator:</span></strong></p>
+            </td>
+            <td style="width:72.68%;border-top:solid windowtext 1.5pt;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.5pt;padding:  0cm 5.4pt 0cm 5.4pt;height:25.3pt;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;'> &nbsp;&nbsp; </p>
+            </td>
+        </tr>
+		<tr>
+            <td style="width:27.32%;border-top:1.5pt;border-left:1.5pt;border-bottom:1.0pt;border-right:1.0pt;border-color:windowtext;border-style:  solid;padding:0cm 5.4pt 0cm 5.4pt;height:25.3pt;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;'><strong><span style="font-size:20px;color:black;">Date:</span></strong></p>
+            </td>
+            <td style="width:72.68%;border-top:solid windowtext 1.5pt;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.5pt;padding:  0cm 5.4pt 0cm 5.4pt;height:25.3pt;">
+                <p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;'>Aug. 9, 2022</p>
+            </td>
+        </tr>
+		
+    </tbody>
+</table>
+
+<p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:center;'><strong><span style="font-size:21px;">&nbsp;</span></strong></p>
+<p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:center;'><strong><span style="font-size:21px;">&nbsp;</span></strong></p>
+<p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:center;'><strong><span style="font-size:21px;">&nbsp;</span></strong></p>
+<p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:center;'><strong><span style="font-size:21px;">&nbsp;</span></strong></p>
+<p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:center;'><strong><span style="font-size:21px;">&nbsp;</span></strong></p>
+<p style='margin:0cm;font-size:16px;font-family:"Times New Roman",serif;text-align:center;'><strong><span style="font-size:21px;">&nbsp;</span></strong></p>
+
+<p><br></p>
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.1pt;'><span style="font-size:23px;">&nbsp;</span></p>
+
+        <h1 style='margin:0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0pt;font-size:19px;font-family:"Times New Roman",serif;'><span style="color:#365F91;">Course Identification&nbsp;</span></h1>
+       
+                
+           
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.5pt;margin-right:0cm;margin-bottom:.05pt;margin-left:0cm;'><strong><span style="font-size:9px;">&nbsp;</span></strong></p>
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.5pt;'><strong><span style="font-size:9px;">&nbsp;</span></strong></p>
+<table style="width: 100%;margin-left: 0pt;border-collapse:collapse;border:none;">
+    <tbody>
+        <tr>
+            <td rowspan="2" style="width: 37.9211%; border-top: 1.5pt solid black; border-left:  1.5pt solid black; border-bottom: 1pt solid black; border-right: 1pt solid black; background: rgb(184, 204, 228); padding: 0cm; height: 13.5pt; vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.2pt;'><strong><span style="font-size:17px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:33.8pt;'><strong><span style="font-size:16px;color:black;">Instructor(s)</span></strong></p>
+            </td>
+            <td colspan="2" style="width: 49.6631%; border-top: 1.5pt solid black; border-left: none; border-bottom: 1pt solid black; border-right: 1.5pt solid black; background: rgb(184, 204, 228); padding: 0cm; height: 13.5pt; vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.3pt;margin-right:0cm;margin-bottom:.0001pt;margin-left:27.0pt;line-height:12.15pt;'><strong><span style="font-size:16px;color:black;">Number of Students</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 24.8316%; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1pt solid black; background: rgb(219, 229, 241); padding: 0cm; height: 27.75pt; vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.75pt;margin-right:0cm;margin-bottom:.0001pt;margin-left:24.0pt;text-indent:-12.0pt;line-height:  13.5pt;'><span style="font-size:16px;color:black;">Starting the course</span></p>
+            </td>
+            <td style="width: 24.8316%; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1.5pt solid black; background: rgb(219, 229, 241); padding: 0cm; height: 27.75pt; vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.75pt;margin-right:6.15pt;margin-bottom:.0001pt;margin-left:15.0pt;text-indent:-2.25pt;line-height:13.5pt;'><span style="font-size:16px;color:black;">Completing the course</span></p>
+            </td>
+        </tr>
+		
+      
+        <tr>
+            <td style="width: 37.9211%; border-top: none; border-left:  1.5pt solid black; border-bottom: 1pt solid black; border-right: 1pt solid black; padding: 0cm; height: 37.9pt; vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:6.5pt;margin-right:27.1pt;margin-bottom:.0001pt;margin-left:39.05pt;text-indent:-8.3pt;line-height:100%;'><strong><span style="color:#0000CC;">
+				 <br> 
+				
+                  </span></strong></p>
+				     
+            </td>
+            <td style="width: 24.8316%; border-top: none; border-left: none; border-bottom: 1.5pt solid black; border-right: 1.5pt solid black; padding: 0cm; height: 37.9pt; vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'><strong><span style="font-size:16px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.4pt;'><strong><span style="font-size:21px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.05pt;margin-right:  31.6pt;margin-bottom:.0001pt;margin-left:32.35pt;text-align:center;'><strong><span style="color:#0000CC;">4</span></strong></p>
+            </td>
+            <td  style="width: 24.8316%; border-top: none; border-left: none; border-bottom: 1.5pt solid black; border-right: 1.5pt solid black; padding: 0cm; height: 37.9pt; vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'><strong><span style="font-size:16px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.4pt;'><strong><span style="font-size:21px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.05pt;margin-right:  31.2pt;margin-bottom:.0001pt;margin-left:32.0pt;text-align:  center;'><strong><span style="color:#0000CC;">4</span></strong></p>
+            </td>
+        </tr>
+       
+    </tbody>
+</table>
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:0pt;margin-bottom:.0001pt;margin-left:0pt;line-height:100%;'><span style="color:red;">Note&nbsp;</span><span style="color:red;">that the number of students who completed the course = the number of pass and fail students &nbsp;(i.e., all students excluding the withdrawn students).</span></p>
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.1pt;'><span style="font-size:23px;">&nbsp;</span></p>
+
+        <h1 style='margin:0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0pt;font-size:19px;font-family:"Times New Roman",serif;'><span style="color:#365F91;">Course&nbsp;</span><span style="color:#365F91;">Delivery</span></h1>
+       
+                <h2 style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0pt;font-size:17px;font-family:"Times New Roman",serif;'>Course Contact Hours (per&nbsp;semester)</h2>
+           
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.5pt;margin-right:0cm;margin-bottom:.05pt;margin-left:0cm;'><strong><span style="font-size:9px;">&nbsp;</span></strong></p>
+<table style="width: 100% ;margin-left: 0pt;border-collapse:collapse;border:solid;">
+    <tbody>
+        <tr>
+            
+            <td style="width: 40%;border-top: 1.5pt solid black;border-left: solid;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 18.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:2.3pt;margin-right:  102.65pt;margin-bottom:.0001pt;margin-left:103.2pt;text-align:center;'><strong><span style="font-size:16px;color:black;">Activity</span></strong></p>
+            </td>
+            <td style="width: 30%;border-top: 1.5pt solid black;border-left: solid;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 18.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:2.3pt;margin-right:  22.45pt;margin-bottom:.0001pt;margin-left:25.15pt;text-align:center;'><strong><span style="font-size:16px;color:black;">Planned</span></strong></p>
+            </td>
+            <td style="width: 30%;border-top: 1.5pt solid black;border-left: solid;border-bottom: 1pt solid black;border-right: 1.5pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 18.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:2.3pt;margin-right:  26.7pt;margin-bottom:.0001pt;margin-left:28.95pt;text-align:center;'><strong><span style="font-size:16px;color:black;">Actual</span></strong></p>
+            </td>
+        </tr>
+		
+      
+        <tr>
+            <td  style="width: 40%;border-top: none;border-left: 1.5pt solid black;border-bottom: 1.5pt solid black;border-right: 1pt solid black;background: rgb(219, 229, 241);padding: 0cm;height: 14.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.05pt;margin-right:  124.5pt;margin-bottom:.0001pt;margin-left:126.25pt;text-align:center;line-height:13.2pt;'><strong><span style="font-size:16px;color:black;">Total</span></strong></p>
+            </td>
+            <td style="width: 30%;border-top: none;border-left: none;border-bottom: 1.5pt solid black;border-right: 1pt solid black;background: rgb(219, 229, 241);padding: 0cm;height: 14.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.05pt;margin-right:  22.45pt;margin-bottom:.0001pt;margin-left:23.8pt;text-align:center;line-height:13.2pt;'><strong><span style="font-size:16px;color:#0000CC;">0</span></strong></p>
+            </td>
+            <td style="width: 30%;border-top: none;border-left: solid;border-bottom: 1.5pt solid black;border-right: 1.5pt solid black;background: rgb(219, 229, 241);padding: 0cm;height: 14.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.05pt;margin-right:  26.7pt;margin-bottom:.0001pt;margin-left:27.9pt;text-align:  center;line-height:13.2pt;'><strong><span style="font-size:16px;color:#0000CC;">0</span></strong></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.45pt;'><strong>&nbsp;</strong></p>
+
+
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.25pt;'><span style="font-size:16px;">&nbsp;</span></p>
+<div style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'>
+  
+            <h2 style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0pt;;font-size:17px;font-family:"Times New Roman",serif;'>Teaching&nbsp;Strategies</h2>
+       
+</div>
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.55pt;'><strong><span style="font-size:9px;">&nbsp;</span></strong></p>
+<table style="width: 100%;margin-left: 0pt;border-collapse:collapse;border:solid;">
+   <thead>
+        <tr>
+            <td  style="width: 75%;border-width: 1.5pt 1pt 1pt 1.5pt;border-color: black;border-style: solid;background: rgb(184, 204, 228);padding: 0cm;height: 28.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.45pt;'><strong><span style="font-size:15px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.05pt;margin-right:0cm;margin-bottom:.0001pt;margin-left:6.0pt;'><strong><span style="color:black;">Planned Teaching Strategies</span></strong></p>
+            </td>
+            <td  style="width: 25%;border-top: 1.5pt solid black;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 28.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.1pt;margin-right:4.05pt;margin-bottom:.0001pt;margin-left:9.75pt;text-indent:6.0pt;line-height:123%;'><strong><span style="font-size:13px;line-height:123%;color:black;">Were They&nbsp;</span></strong><strong><span style="font-size:13px;line-height:123%;color:black;">Implemented?</span></strong></p>
+            </td>
+          
+        </tr>
+		</thead>
+		 <tbody>
+      
+       
+		
+		
+		 </tbody>
+</table>
+			
+			
+		
+   
+<p><span style='font-size:1px;font-family:"Times New Roman",serif;'><br>&nbsp;</span></p>
+
+     <p><span style='font-size:1px;font-family:"Times New Roman",serif;'><br>&nbsp;</span></p>     
+	 
+	 
+<div style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'>
+   
+            <h2 style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0pt;font-size:17px;font-family:"Times New Roman",serif;'>Activities/Assessment&nbsp;Methods</h2>
+       
+</div>
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.55pt;'><strong><span style="font-size:9px;">&nbsp;</span></strong></p>
+<table style="width: 100%;margin-left: 0pt;border-collapse:collapse;border:solid;">
+   <thead>
+        <tr>
+            <td  style="width: 75%;border-width: 1.5pt 1pt 1pt 1.5pt;border-color: black;border-style: solid;background: rgb(184, 204, 228);padding: 0cm;height: 28.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.45pt;'><strong><span style="font-size:15px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.05pt;margin-right:0cm;margin-bottom:.0001pt;margin-left:6.0pt;'><strong><span style="color:black;">Activities/Planned Assessment Methods</span></strong></p>
+            </td>
+            <td  style="width: 25%;border-top: 1.5pt solid black;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 28.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.1pt;margin-right:4.05pt;margin-bottom:.0001pt;margin-left:9.75pt;text-indent:6.0pt;line-height:123%;'><strong><span style="font-size:13px;line-height:123%;color:black;">Were They&nbsp;</span></strong><strong><span style="font-size:13px;line-height:123%;color:black;">Implemented?</span></strong></p>
+            </td>
+          
+        </tr>
+		</thead>
+		 <tbody>
+      
+       
+		
+		
+		 </tbody>
+</table>
+			
+			
+		
+ 
+<p><span style='font-size:1px;font-family:"Times New Roman",serif;'><br>&nbsp;</span></p>
+
+              
+     <p><span style='font-size:1px;font-family:"Times New Roman",serif;'><br>&nbsp;</span></p>     	 
+
+
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.15pt;'><strong><span style="font-size:19px;">&nbsp;</span></strong></p>
+<div style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'>
+    
+            <h2 style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0pt;font-size:17px;font-family:"Times New Roman",serif;'>Verification of&nbsp;Credibility&nbsp;of&nbsp;Students&rsquo;&nbsp;Results</h2>
+      
+</div>
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.5pt;margin-right:0cm;margin-bottom:.05pt;margin-left:0cm;'><strong><span style="font-size:9px;">&nbsp;</span></strong></p>
+<table style="width: 100%; margin-left: 0pt;border-collapse:collapse;border:solid;">
+    <tbody>
+        <tr>
+            <td style="width: 40%;border-width: 1.5pt 1pt 1pt 1.5pt;border-color: black;border-style: solid;background: rgb(184, 204, 228);padding: 0cm;height: 15.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:79.6pt;line-height:13.1pt;'><strong><span style="font-size:16px;">Method(s) of Verification</span></strong></p>
+            </td>
+            
+        </tr>
+		
+       
+    </tbody>
+</table>
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:0pt;line-height:13.1pt;'><strong><span style="font-size:16px;color:black;">Conclusions : []</span></strong></p>
+            
+ 
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:0pt;'><strong><span style="font-size:17px;color:black;"></span></strong></p>
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'><strong><span style="font-size:13px;">&nbsp;</span></strong></p>
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.15pt;'>&nbsp;</p>
+
+<p><br></p>
+<p>&nbsp;</p>
+<p><br></p>
+<p><span style='font-size:11px;font-family:"Times New Roman",serif;'><br>&nbsp;</span></p>
+
+        <h1 style='margin-top:3.7pt;margin-right:0cm;margin-bottom:0cm;margin-left:0pt;font-size:19px;font-family:"Times New Roman",serif;'><span style="color:#365F91;">Student</span><span style="color:#365F91;">&nbsp;</span><span style="color:#365F91;">Results</span></h1>
+   
+        <h2 style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0pt;font-size:17px;font-family:"Times New Roman",serif;'>Distribution&nbsp;of&nbsp;Grades</h2>
+    
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'><strong><span style="font-size:13px;">&nbsp;</span></strong></p>
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.2pt;margin-right:0cm;margin-bottom:.05pt;margin-left:0cm;'><strong><span style="font-size:12px;">&nbsp;</span></strong></p>
+<table style="width: 100%;margin-left: 0pt;border-collapse:collapse;border:solid;">
+    <tbody>
+        <tr>
+            <td rowspan="2" style="width: 61.95pt;border-width: 1.5pt 1pt 1pt 1.5pt;border-color: black;border-style: solid;background: rgb(184, 204, 228);padding: 0cm;height: 15.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'>&nbsp;</p>
+            </td>
+            <td colspan="9" style="width: 239.9pt;border-top: 1.5pt solid black;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 15.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:99.25pt;margin-bottom:.0001pt;margin-left:100.4pt;text-align:center;line-height:13.1pt;'><strong><span style="font-size:16px;color:black;">Grades</span></strong></p>
+            </td>
+            <td colspan="6" style="width: 163.7pt;border-top: 1.5pt solid black;border-left: none;border-bottom: 1pt solid black;border-right: 1.5pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 15.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:32.7pt;line-height:13.1pt;'><strong><span style="font-size:16px;color:black;">Status Distributions</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 27pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(219, 229, 241);padding: 0cm;height: 36.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:9.8pt;margin-right:  3.8pt;margin-bottom:.0001pt;margin-left:4.05pt;text-align:  center;'><span style="font-size:16px;color:black;">A+</span></p>
+            </td>
+            <td style="width: 27pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(219, 229, 241);padding: 0cm;height: 36.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:9.8pt;margin-right:0cm;margin-bottom:.0001pt;margin-left:9.75pt;'><span style="font-size:16px;color:black;">A</span></p>
+            </td>
+            <td style="width: 27pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(219, 229, 241);padding: 0cm;height: 36.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:9.8pt;margin-right:  3.15pt;margin-bottom:.0001pt;margin-left:4.45pt;text-align:  center;'><span style="font-size:16px;color:black;">B+</span></p>
+            </td>
+            <td style="width: 26.25pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(219, 229, 241);padding: 0cm;height: 36.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:9.8pt;margin-right:  0cm;margin-bottom:.0001pt;margin-left:.6pt;text-align:center;'><span style="font-size:16px;color:black;">B</span></p>
+            </td>
+            <td style="width: 27pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(219, 229, 241);padding: 0cm;height: 36.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:9.8pt;margin-right:  2.55pt;margin-bottom:.0001pt;margin-left:5.35pt;text-align:  center;'><span style="font-size:16px;color:black;">C+</span></p>
+            </td>
+            <td style="width: 27pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(219, 229, 241);padding: 0cm;height: 36.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:9.8pt;margin-right:  0cm;margin-bottom:.0001pt;margin-left:1.65pt;text-align:  center;'><span style="font-size:16px;color:black;">C</span></p>
+            </td>
+            <td style="width: 26.95pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(219, 229, 241);padding: 0cm;height: 36.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:9.8pt;margin-right:  3.55pt;margin-bottom:.0001pt;margin-left:4.4pt;text-align:  center;'><span style="font-size:16px;color:black;">D+</span></p>
+            </td>
+            <td style="width: 26.95pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(219, 229, 241);padding: 0cm;height: 36.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:9.8pt;margin-right:  0cm;margin-bottom:.0001pt;margin-left:2.7pt;text-align:  center;'><span style="font-size:16px;color:black;">D</span></p>
+            </td>
+            <td style="width: 24.75pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(219, 229, 241);padding: 0cm;height: 36.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:9.8pt;margin-right:  0cm;margin-bottom:.0001pt;margin-left:1.3pt;text-align:  center;'><span style="font-size:16px;color:black;">F</span></p>
+            </td>
+            <td style="width: 26.95pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(219, 229, 241);padding: 0cm;height: 36.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'><strong><span style="font-size:7px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:9.7pt;text-indent:-2.25pt;line-height:110%;'><span style="font-size:9px;line-height:110%;color:black;">Denied Entry</span></p>
+            </td>
+            <td style="width: 27.7pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(219, 229, 241);padding: 0cm;height: 36.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'><strong><span style="font-size:13px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:2.2pt;'><span style="font-size:9px;color:black;">In Progress</span></p>
+            </td>
+            <td style="width: 27pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(219, 229, 241);padding: 0cm;height: 36.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.5pt;'><strong><span style="font-size:11px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:2.2pt;'><span style="font-size:9px;color:black;">Incomplete</span></p>
+            </td>
+            <td style="width: 27.7pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(219, 229, 241);padding: 0cm;height: 36.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.55pt;'><strong><span style="font-size:11px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:11.95pt;'><span style="font-size:9px;color:black;">Pass</span></p>
+            </td>
+            <td style="width: 27pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(219, 229, 241);padding: 0cm;height: 36.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.05pt;'><strong><span style="font-size:12px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:12.2pt;margin-bottom:.0001pt;margin-left:11.9pt;text-align:center;'><span style="font-size:9px;color:black;">Fail</span></p>
+            </td>
+            <td style="width: 27.35pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1.5pt solid black;background: rgb(219, 229, 241);padding: 0cm;height: 36.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.05pt;'><strong><span style="font-size:12px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:1.45pt;'><span style="font-size:9px;color:black;">Withdrawn</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 61.95pt;border-top: none;border-left: 1.5pt solid black;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:5.25pt;line-height:12.15pt;'><strong><span style="color:black;">Number of</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:2.35pt;margin-right:0cm;margin-bottom:.0001pt;margin-left:9.75pt;'><strong><span style="color:black;">Students</span></strong></p>
+            </td>
+            <td style="width: 27pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.4pt;'><strong><span style="font-size:10px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:.3pt;text-align:center;'><span style="font-size:11px;color:#0000CC;"></span></p>
+            </td>
+            <td style="width: 27pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.4pt;'><strong><span style="font-size:10px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:11.25pt;'><span style="font-size:11px;color:#0000CC;"></span></p>
+            </td>
+            <td style="width: 27pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.4pt;'><strong><span style="font-size:10px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:.7pt;text-align:center;'><span style="font-size:11px;color:#0000CC;"></span></p>
+            </td>
+            <td style="width: 26.25pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.4pt;'><strong><span style="font-size:10px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-right:.15pt;text-align:  center;'><span style="font-size:11px;color:#0000CC;"></span></p>
+            </td>
+            <td style="width: 27pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.4pt;'><strong><span style="font-size:10px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:2.2pt;text-align:  center;'><span style="font-size:11px;color:#0000CC;"></span></p>
+            </td>
+            <td style="width: 27pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.4pt;'><strong><span style="font-size:10px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:.75pt;text-align:  center;'><span style="font-size:11px;color:#0000CC;"></span></p>
+            </td>
+            <td style="width: 26.95pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.4pt;'><strong><span style="font-size:10px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:.85pt;text-align:  center;'><span style="font-size:11px;color:#0000CC;"></span></p>
+            </td>
+            <td style="width: 26.95pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.4pt;'><strong><span style="font-size:10px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:1.15pt;text-align:  center;'><span style="font-size:11px;color:#0000CC;"></span></p>
+            </td>
+            <td style="width: 24.75pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.4pt;'><strong><span style="font-size:10px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:.3pt;text-align:center;'><span style="font-size:11px;color:red;"></span></p>
+            </td>
+            <td style="width: 26.95pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'><strong><span style="font-size:11px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:2.75pt;text-align:  center;'><strong><span style="font-size:11px;color:#0000CC;"></span></strong></p>
+            </td>
+            <td style="width: 27.7pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'><strong><span style="font-size:11px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:2.2pt;text-align:  center;'><strong><span style="font-size:11px;color:#0000CC;"></span></strong></p>
+            </td>
+            <td style="width: 27pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'><strong><span style="font-size:11px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:1.55pt;text-align:  center;'><strong><span style="font-size:11px;color:#0000CC;"></span></strong></p>
+            </td>
+            <td style="width: 27.7pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'><strong><span style="font-size:11px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-right:7.45pt;text-align:  right;'><strong><span style="font-size:11px;color:#0000CC;"></span></strong></p>
+            </td>
+            <td style="width: 27pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'><strong><span style="font-size:11px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:1.8pt;text-align:  center;'><strong><span style="font-size:11px;color:red;"></span></strong></p>
+            </td>
+            <td style="width: 27.35pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1.5pt solid black;padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'><strong><span style="font-size:11px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:3.4pt;text-align:  center;'><strong><span style="font-size:11px;color:#0000CC;"></span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 61.95pt;border-top: none;border-left: 1.5pt solid black;border-bottom: 1.5pt solid black;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:7.0pt;margin-right:0cm;margin-bottom:.0001pt;margin-left:5.25pt;'><strong><span style="color:black;">Percentage</span></strong></p>
+            </td>
+            <td style="width: 27pt;border-top: none;border-left: none;border-bottom: 1.5pt solid black;border-right: 1pt solid black;padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.25pt;'><strong><span style="font-size:9px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:3.4pt;margin-bottom:.0001pt;margin-left:4.45pt;text-align:center;'><span style="font-size:11px;color:#0000CC;"></span></p>
+            </td>
+            <td style="width: 27pt;border-top: none;border-left: none;border-bottom: 1.5pt solid black;border-right: 1pt solid black;padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.25pt;'><strong><span style="font-size:9px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:11.25pt;'><span style="font-size:11px;color:#0000CC;"></span></p>
+            </td>
+            <td style="width: 27pt;border-top: none;border-left: none;border-bottom: 1.5pt solid black;border-right: 1pt solid black;padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.25pt;'><strong><span style="font-size:9px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:2.65pt;margin-bottom:.0001pt;margin-left:4.45pt;text-align:center;'><span style="font-size:11px;color:#0000CC;"></span></p>
+            </td>
+            <td style="width: 26.25pt;border-top: none;border-left: none;border-bottom: 1.5pt solid black;border-right: 1pt solid black;padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.25pt;'><strong><span style="font-size:9px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:3.9pt;margin-bottom:.0001pt;margin-left:4.75pt;text-align:center;'><span style="font-size:11px;color:#0000CC;"></span></p>
+            </td>
+            <td style="width: 27pt;border-top: none;border-left: none;border-bottom: 1.5pt solid black;border-right: 1pt solid black;padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.25pt;'><strong><span style="font-size:9px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:3.3pt;margin-bottom:.0001pt;margin-left:4.7pt;text-align:center;'><span style="font-size:11px;color:#0000CC;"></span></p>
+            </td>
+            <td style="width: 27pt;border-top: none;border-left: none;border-bottom: 1.5pt solid black;border-right: 1pt solid black;padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.25pt;'><strong><span style="font-size:9px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:3.3pt;margin-bottom:.0001pt;margin-left:4.8pt;text-align:center;'><span style="font-size:11px;color:#0000CC;"></span></p>
+            </td>
+            <td style="width: 26.95pt;border-top: none;border-left: none;border-bottom: 1.5pt solid black;border-right: 1pt solid black;padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.25pt;'><strong><span style="font-size:9px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:3.2pt;margin-bottom:.0001pt;margin-left:4.8pt;text-align:center;'><span style="font-size:11px;color:#0000CC;"></span></p>
+            </td>
+            <td style="width: 26.95pt;border-top: none;border-left: none;border-bottom: 1.5pt solid black;border-right: 1pt solid black;padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.25pt;'><strong><span style="font-size:9px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:3.7pt;margin-bottom:.0001pt;margin-left:5.6pt;text-align:center;'><span style="font-size:11px;color:#0000CC;"></span></p>
+            </td>
+            <td style="width: 24.75pt;border-top: none;border-left: none;border-bottom: 1.5pt solid black;border-right: 1pt solid black;padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.25pt;'><strong><span style="font-size:9px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:2.85pt;margin-bottom:.0001pt;margin-left:4.25pt;text-align:center;'><span style="font-size:11px;color:red;"></span></p>
+            </td>
+            <td style="width: 26.95pt;border-top: none;border-left: none;border-bottom: 1.5pt solid black;border-right: 1pt solid black;padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.25pt;'><strong><span style="font-size:9px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:2.45pt;margin-bottom:.0001pt;margin-left:4.8pt;text-align:center;'><span style="font-size:11px;color:#0000CC;"></span></p>
+            </td>
+            <td style="width: 27.7pt;border-top: none;border-left: none;border-bottom: 1.5pt solid black;border-right: 1pt solid black;padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.25pt;'><strong><span style="font-size:9px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:4.25pt;margin-bottom:.0001pt;margin-left:6.0pt;text-align:center;'><span style="font-size:11px;color:#0000CC;"></span></p>
+            </td>
+            <td style="width: 27pt;border-top: none;border-left: none;border-bottom: 1.5pt solid black;border-right: 1pt solid black;padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.25pt;'><strong><span style="font-size:9px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:3.3pt;margin-bottom:.0001pt;margin-left:4.45pt;text-align:center;'><span style="font-size:11px;color:#0000CC;"></span></p>
+            </td>
+            <td style="width: 27.7pt;border-top: none;border-left: none;border-bottom: 1.5pt solid black;border-right: 1pt solid black;padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.25pt;'><strong><span style="font-size:9px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-right:4.85pt;text-align:  right;'><span style="font-size:11px;color:#0000CC;"></span></p>
+            </td>
+            <td style="width: 27pt;border-top: none;border-left: none;border-bottom: 1.5pt solid black;border-right: 1pt solid black;padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.25pt;'><strong><span style="font-size:9px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:3.3pt;margin-bottom:.0001pt;margin-left:4.7pt;text-align:center;'><span style="font-size:11px;color:red;"></span></p>
+            </td>
+            <td style="width: 27.35pt;border-top: none;border-left: none;border-bottom: 1.5pt solid black;border-right: 1.5pt solid black;padding: 0cm;height: 29.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.25pt;'><strong><span style="font-size:9px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:3.25pt;margin-bottom:.0001pt;margin-left:6.2pt;text-align:center;'><span style="font-size:11px;color:#0000CC;"></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.1pt;'><strong><span style="font-size:11px;">&nbsp;</span></strong></p>
+<strong><span style="line-height:156%;font-size:17px;">Comment on&nbsp;Student&nbsp;Results (including&nbsp;special&nbsp;factors (if&nbsp;any)&nbsp;affecting the results)</span></strong>
+
+      <p><span style="line-height:112%;font-size:12.0pt;color:#000099;"></span></p>
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.1pt;'><strong><span style="font-size:11px;">&nbsp;</span></strong></p>
+<strong><span style="font-size:17px;">Recommendations:&nbsp;</span></strong><strong><span style="font-size:13px;color:#00B050;">(Student</span></strong><strong><span style="font-size:13px;color:#00B050;">&nbsp;</span></strong><strong><span style="font-size:13px;color:#00B050;">results)</span></strong>
+
+ <p><span style='font-size:15px;font-family:"Times New Roman",serif;color:#365F91;'>D. Course Learning&nbsp;</span><span style='font-size:15px;font-family:"Times New Roman",serif;color:#365F91;'>Outcomes</span></p>
+ 
+ 
+ 
+<p>1 .Course Articulation Matrix</p>
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.5pt;margin-right:0cm;margin-bottom:.05pt;margin-left:0cm;'><br></p>
+<p>&nbsp;</p>
+<table style="width:100%;border-collapse:collapse;border:none;">
+    <tbody>
+        <tr>
+            <td style="width: 30%;border: 1pt solid windowtext;background: rgb(180, 198, 231);padding: 0cm 5.4pt;height: 48.4pt;vertical-align: top;">
+                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style="color:black;">Clos</span></strong></p>
+            </td>
+          
+            <td style="width: 148.95pt;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;background: rgb(180, 198, 231);padding: 0cm 5.4pt;height: 48.4pt;vertical-align: top;">
+                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style="color:black;">Assignment</span></p>
+                <table style="width: 148.95pt;margin-left:0pt;border-collapse:collapse;border:none;">
+                    <tbody>
+                        <tr>
+                         
+                            
+                            <td style="border-top: 1pt solid windowtext;border-right: none;border-bottom: none;border-left: 1pt solid windowtext; background: white; padding: 0cm 0pt; height: 0pt; vertical-align: top;">
+                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0.5cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style="color:black;">A1</span></p>
+                            </td>
+                            
+                         
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+			
+            <td style="width: 148.95pt;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;background: rgb(180, 198, 231);padding: 0cm 5.4pt;height: 48.4pt;vertical-align: top;">
+                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style="color:black;">Final Project</span></p>
+                <table style="width: 148.95pt;margin-left:0pt;border-collapse:collapse;border:none;">
+                    <tbody>
+                        <tr>
+                         
+                            
+                            <td style="border-top: 1pt solid windowtext;border-right: none;border-bottom: none;border-left: 1pt solid windowtext; background: white; padding: 0cm 0pt; height: 0pt; vertical-align: top;">
+                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0.5cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style="color:black;">FP1</span></p>
+                            </td>
+                            
+                         
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+			
+            <td style="width: 148.95pt;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;background: rgb(180, 198, 231);padding: 0cm 5.4pt;height: 48.4pt;vertical-align: top;">
+                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style="color:black;">Quizz</span></p>
+                <table style="width: 148.95pt;margin-left:0pt;border-collapse:collapse;border:none;">
+                    <tbody>
+                        <tr>
+                         
+                            
+                            <td style="border-top: 1pt solid windowtext;border-right: none;border-bottom: none;border-left: 1pt solid windowtext; background: white; padding: 0cm 0pt; height: 0pt; vertical-align: top;">
+                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0.5cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style="color:black;">Q1</span></p>
+                            </td>
+                            
+                         
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+			
+           
+        </tr>
+		
+        <tr>
+            <td  style="width: 30%;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;background: rgb(217, 217, 217);padding: 0cm 5.4pt;height: 20.8pt;vertical-align: top;">
+                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style="color:black;">1:Develop awareness of the web based tools and their requirements in the current market and future of the Computer Science.&nbsp;</span></p>
+            </td>
+			
+			 
+            <td style="border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0cm 5.4pt;height: 48.4pt;vertical-align: top;">
+
+                <table style="width: 148.95pt;margin-left:0pt;border-collapse:collapse;border:none;">
+                    <tbody>
+                        <tr>
+                         
+                            
+                            <td style="border-top: none;border-right: none;border-bottom: none;border-left: none; background: white; padding: 0cm 0pt; height: 0pt; vertical-align:top;">
+                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style="color:black;"></span></p>
+                            </td>
+                            
+                         
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+			
+            <td style="border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0cm 5.4pt;height: 48.4pt;vertical-align: top;">
+
+                <table style="width: 148.95pt;margin-left:0pt;border-collapse:collapse;border:none;">
+                    <tbody>
+                        <tr>
+                         
+                            
+                            <td style="border-top: none;border-right: none;border-bottom: none;border-left: none; background: white; padding: 0cm 0pt; height: 0pt; vertical-align:top;">
+                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style="color:black;">X</span></p>
+                            </td>
+                            
+                         
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+			
+            <td style="border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0cm 5.4pt;height: 48.4pt;vertical-align: top;">
+
+                <table style="width: 148.95pt;margin-left:0pt;border-collapse:collapse;border:none;">
+                    <tbody>
+                        <tr>
+                         
+                            
+                            <td style="border-top: none;border-right: none;border-bottom: none;border-left: none; background: white; padding: 0cm 0pt; height: 0pt; vertical-align:top;">
+                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style="color:black;"></span></p>
+                            </td>
+                            
+                         
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+			
+                            
+                         
+            
+        </tr>
+		
+        <tr>
+            <td  style="width: 30%;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;background: rgb(217, 217, 217);padding: 0cm 5.4pt;height: 20.8pt;vertical-align: top;">
+                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style="color:black;">2:Develop an ability to work in groups&nbsp;</span></p>
+            </td>
+			
+			 
+            <td style="border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0cm 5.4pt;height: 48.4pt;vertical-align: top;">
+
+                <table style="width: 148.95pt;margin-left:0pt;border-collapse:collapse;border:none;">
+                    <tbody>
+                        <tr>
+                         
+                            
+                            <td style="border-top: none;border-right: none;border-bottom: none;border-left: none; background: white; padding: 0cm 0pt; height: 0pt; vertical-align:top;">
+                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style="color:black;">X</span></p>
+                            </td>
+                            
+                         
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+			
+            <td style="border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0cm 5.4pt;height: 48.4pt;vertical-align: top;">
+
+                <table style="width: 148.95pt;margin-left:0pt;border-collapse:collapse;border:none;">
+                    <tbody>
+                        <tr>
+                         
+                            
+                            <td style="border-top: none;border-right: none;border-bottom: none;border-left: none; background: white; padding: 0cm 0pt; height: 0pt; vertical-align:top;">
+                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style="color:black;"></span></p>
+                            </td>
+                            
+                         
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+			
+            <td style="border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0cm 5.4pt;height: 48.4pt;vertical-align: top;">
+
+                <table style="width: 148.95pt;margin-left:0pt;border-collapse:collapse;border:none;">
+                    <tbody>
+                        <tr>
+                         
+                            
+                            <td style="border-top: none;border-right: none;border-bottom: none;border-left: none; background: white; padding: 0cm 0pt; height: 0pt; vertical-align:top;">
+                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style="color:black;"></span></p>
+                            </td>
+                            
+                         
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+			
+                            
+                         
+            
+        </tr>
+		
+        <tr>
+            <td  style="width: 30%;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;background: rgb(217, 217, 217);padding: 0cm 5.4pt;height: 20.8pt;vertical-align: top;">
+                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style="color:black;">3:Explain the Intercommunication between different technologies involved in internet implementation and cloud computing.&nbsp;</span></p>
+            </td>
+			
+			 
+            <td style="border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0cm 5.4pt;height: 48.4pt;vertical-align: top;">
+
+                <table style="width: 148.95pt;margin-left:0pt;border-collapse:collapse;border:none;">
+                    <tbody>
+                        <tr>
+                         
+                            
+                            <td style="border-top: none;border-right: none;border-bottom: none;border-left: none; background: white; padding: 0cm 0pt; height: 0pt; vertical-align:top;">
+                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style="color:black;"></span></p>
+                            </td>
+                            
+                         
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+			
+            <td style="border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0cm 5.4pt;height: 48.4pt;vertical-align: top;">
+
+                <table style="width: 148.95pt;margin-left:0pt;border-collapse:collapse;border:none;">
+                    <tbody>
+                        <tr>
+                         
+                            
+                            <td style="border-top: none;border-right: none;border-bottom: none;border-left: none; background: white; padding: 0cm 0pt; height: 0pt; vertical-align:top;">
+                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style="color:black;"></span></p>
+                            </td>
+                            
+                         
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+			
+            <td style="border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0cm 5.4pt;height: 48.4pt;vertical-align: top;">
+
+                <table style="width: 148.95pt;margin-left:0pt;border-collapse:collapse;border:none;">
+                    <tbody>
+                        <tr>
+                         
+                            
+                            <td style="border-top: none;border-right: none;border-bottom: none;border-left: none; background: white; padding: 0cm 0pt; height: 0pt; vertical-align:top;">
+                                <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style="color:black;">X</span></p>
+                            </td>
+                            
+                         
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+			
+                            
+                         
+            
+        </tr>
+		
+       
+    </tbody>
+</table>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>&nbsp;</p>
+
+<div style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'>
+    <ol style="margin-bottom:0cm;list-style-type: decimal;margin-left:0px;">
+        <li style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'>
+            <h2 style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0pt;text-indent:-12.8pt;font-size:17px;font-family:"Times New Roman",serif;'>Course Learning Outcomes Assessment&nbsp;Results</h2>
+        </li>
+    </ol>
+</div>
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.55pt;'><strong><span style="font-size:9px;">&nbsp;</span></strong></p>
+<table style="width: 100%;margin-left: 0pt;border-collapse:collapse;border:none;">
+    <tbody>
+        <tr>
+            <td colspan="2" style="width: 167.85pt;border-top: 1.5pt solid black;border-left: 1.5pt solid black;border-bottom: none;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 12.45pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'><span style="font-size:12px;">&nbsp;</span></p>
+            </td>
+            <td style="width: 44.3pt;border-top: 1.5pt solid black;border-left: none;border-bottom: none;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 12.45pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'><span style="font-size:12px;">&nbsp;</span></p>
+            </td>
+            <td style="width: 72.1pt;border-top: 1.5pt solid black;border-left: none;border-bottom: none;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 12.45pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'><span style="font-size:12px;">&nbsp;</span></p>
+            </td>
+            <td colspan="3" style="width: 85.6pt;border-top: 1.5pt solid black;border-left: none;border-bottom: none;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 12.45pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.1pt;margin-right:0cm;margin-bottom:.0001pt;margin-left:18.75pt;'><strong><span style="font-size:13px;color:black;">Assessment</span></strong></p>
+            </td>
+            <td style="width: 96.5pt;border-top: 1.5pt solid black;border-left: none;border-bottom: none;border-right: 1.5pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 12.45pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'><span style="font-size:12px;">&nbsp;</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" rowspan="2" style="width: 167.85pt;border-top: none;border-left: 1.5pt solid black;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 13.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:4.15pt;margin-right:0cm;margin-bottom:.0001pt;margin-left:68.35pt;text-indent:-40.6pt;line-height:  123%;'><strong><span style="font-size:13px;line-height:123%;color:black;">Course learning Outcomes (CLOs)</span></strong></p>
+            </td>
+            <td rowspan="2" style="width: 44.3pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 13.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:4.15pt;margin-right:0cm;margin-bottom:.0001pt;margin-left:10.5pt;'><strong><span style="font-size:13px;color:black;">PLOs</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:2.6pt;margin-right:0cm;margin-bottom:.0001pt;margin-left:12.0pt;'><strong><span style="font-size:13px;color:black;">Code</span></strong></p>
+            </td>
+            <td rowspan="2" style="width: 72.1pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 13.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:6.3pt;margin-right:8.05pt;margin-bottom:.0001pt;margin-left:20.25pt;text-indent:-6.75pt;line-height:121%;'><strong><span style="font-size:11px;line-height:121%;color:black;">Assessment Me thods</span></strong></p>
+            </td>
+            <td colspan="3" style="width: 85.6pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 13.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:1.15pt;margin-right:0cm;margin-bottom:.0001pt;margin-left:27.75pt;'><strong><span style="font-size:13px;color:black;">Results</span></strong></p>
+            </td>
+            <td rowspan="2" style="width: 96.5pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1.5pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 13.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:4.15pt;margin-right:  4.3pt;margin-bottom:.0001pt;margin-left:5.85pt;text-align:  center;'><strong><span style="font-size:13px;color:black;">Comment on</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:2.6pt;margin-right:  5.15pt;margin-bottom:.0001pt;margin-left:5.85pt;text-align:  center;'><strong><span style="font-size:13px;color:black;">Assessment Results</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="width: 39.05pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(219, 229, 241);padding: 0cm;height: 32.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:11.2pt;margin-bottom:.0001pt;margin-left:12.75pt;text-align:center;line-height:110%;'><strong><span style="font-size:9px;line-height:110%;color:black;">Target Level/</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:4.8pt;margin-bottom:.0001pt;margin-left:6.0pt;text-align:center;text-indent:1.1pt;line-height:7.5pt;'><strong><span style="font-size:9px;color:black;">Criterion for Success</span></strong></p>
+            </td>
+            <td style="width: 46.55pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(219, 229, 241);padding: 0cm;height: 32.25pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.1pt;'><strong><span style="font-size:9px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:8.95pt;margin-bottom:.0001pt;margin-left:12.75pt;text-indent:-2.25pt;line-height:  110%;'><strong><span style="font-size:9px;line-height:110%;color:black;">Actual</span></strong><strong><span style="font-size:9px;line-height:110%;color:black;">&nbsp;</span></strong><strong><span style="font-size:9px;line-height:110%;color:black;">Level</span></strong></p>
+            </td>
+        </tr>
+      
+        <tr>
+            <td style="width: 20.65pt;border-top: none;border-left: 1.5pt solid black;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 16.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:3.0pt;margin-right:  0cm;margin-bottom:.0001pt;margin-left:1.15pt;text-align:  center;'><strong><span style="font-size:11px;color:black;">1 </span></strong></p>
+            </td>
+            <td colspan="7" style="width: 445.7pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1.5pt solid black;background: rgb(219, 229, 241);padding: 0cm;height: 16.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:5.25pt;line-height:13.1pt;'><strong><span style="font-size:16px;color:black;">Knowledge</span></strong></p>
+            </td>
+        </tr>
+      
+        <tr>
+            <td style="width: 20.65pt;border-top: none;border-left: 1.5pt solid black;border-bottom: 1.5pt solid black;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 77.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'><strong><span style="font-size:12px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'><strong><span style="font-size:12px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'><strong><span style="font-size:12px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'><strong><span style="font-size:12px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.1pt;'><strong><span style="font-size:9px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:2.55pt;margin-bottom:.0001pt;margin-left:4.4pt;text-align:center;'><span style="font-size:11px;color:black;">11</span></p>
+            </td>
+            <td style="width: 147.2pt;border-top: none;border-bottom: 1.5pt solid black;border-left: none;border-image: initial;border-right: 1pt solid black;padding: 0cm;height: 77.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.1pt;margin-right:0cm;margin-bottom:.0001pt;margin-left:5.25pt;line-height:120%;'><span style="font-size:13px;line-height:120%;">Develop awareness of the web based tools and their requirements in the current market and future of the Computer Science.</span></p>
+            </td>
+            <td style="width: 44.3pt;border-top: none;border-bottom: 1.5pt solid black;border-left: none;border-image: initial;border-right: 1pt solid black;padding: 0cm;height: 77.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:6.0pt;line-height:13.1pt;'><span style="font-size:16px;">b</span></p>
+            </td>
+            <td style="width: 72.1pt;border-top: none;border-bottom: 1.5pt solid black;border-left: none;border-image: initial;border-right: 1pt solid black;padding: 0cm;height: 77.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:6.0pt;line-height:13.1pt;'><span style="font-size:16px;"> Quizz<br>  Assignment<br>  Final Project<br> </span></p>
+            </td>
+            <td colspan="2"  style="width: 39.05pt;border-top: none;border-bottom: 1.5pt solid black;border-left: none;border-image: initial;border-right: 1pt solid black;padding: 0cm;height: 77.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:6.0pt;line-height:13.1pt;'><span style="font-size:16px;">80.0</span></p>
+            </td>
+            <td style="width: 46.55pt;border-top: none;border-bottom: 1.5pt solid black;border-left: none;border-image: initial;border-right: 1pt solid black;padding: 0cm;height: 77.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:6.0pt;line-height:13.1pt;'><span style="font-size:16px;">0</span></p>
+            </td>
+            <td style="width: 96.5pt;border-top: none;border-bottom: 1.5pt solid black;border-left: none;border-image: initial;border-right: 1.5pt solid black;padding: 0cm;height: 77.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:6.0pt;line-height:113%;'><span style="font-size:16px;line-height:  113%;">None</span></p>
+               
+            </td>
+        </tr>
+       
+	    
+        <tr>
+            <td style="width: 20.65pt;border-top: none;border-left: 1.5pt solid black;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 16.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:3.0pt;margin-right:  0cm;margin-bottom:.0001pt;margin-left:1.15pt;text-align:  center;'><strong><span style="font-size:11px;color:black;">2 </span></strong></p>
+            </td>
+            <td colspan="7" style="width: 445.7pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1.5pt solid black;background: rgb(219, 229, 241);padding: 0cm;height: 16.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:5.25pt;line-height:13.1pt;'><strong><span style="font-size:16px;color:black;">Skills</span></strong></p>
+            </td>
+        </tr>
+      
+        <tr>
+            <td style="width: 20.65pt;border-top: none;border-left: 1.5pt solid black;border-bottom: 1.5pt solid black;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 77.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'><strong><span style="font-size:12px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'><strong><span style="font-size:12px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'><strong><span style="font-size:12px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'><strong><span style="font-size:12px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.1pt;'><strong><span style="font-size:9px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:2.55pt;margin-bottom:.0001pt;margin-left:4.4pt;text-align:center;'><span style="font-size:11px;color:black;">22</span></p>
+            </td>
+            <td style="width: 147.2pt;border-top: none;border-bottom: 1.5pt solid black;border-left: none;border-image: initial;border-right: 1pt solid black;padding: 0cm;height: 77.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.1pt;margin-right:0cm;margin-bottom:.0001pt;margin-left:5.25pt;line-height:120%;'><span style="font-size:13px;line-height:120%;">Develop an ability to work in groups</span></p>
+            </td>
+            <td style="width: 44.3pt;border-top: none;border-bottom: 1.5pt solid black;border-left: none;border-image: initial;border-right: 1pt solid black;padding: 0cm;height: 77.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:6.0pt;line-height:13.1pt;'><span style="font-size:16px;">b</span></p>
+            </td>
+            <td style="width: 72.1pt;border-top: none;border-bottom: 1.5pt solid black;border-left: none;border-image: initial;border-right: 1pt solid black;padding: 0cm;height: 77.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:6.0pt;line-height:13.1pt;'><span style="font-size:16px;"> Quizz<br>  Assignment<br>  Final Project<br> </span></p>
+            </td>
+            <td colspan="2"  style="width: 39.05pt;border-top: none;border-bottom: 1.5pt solid black;border-left: none;border-image: initial;border-right: 1pt solid black;padding: 0cm;height: 77.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:6.0pt;line-height:13.1pt;'><span style="font-size:16px;">80.0</span></p>
+            </td>
+            <td style="width: 46.55pt;border-top: none;border-bottom: 1.5pt solid black;border-left: none;border-image: initial;border-right: 1pt solid black;padding: 0cm;height: 77.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:6.0pt;line-height:13.1pt;'><span style="font-size:16px;">0</span></p>
+            </td>
+            <td style="width: 96.5pt;border-top: none;border-bottom: 1.5pt solid black;border-left: none;border-image: initial;border-right: 1.5pt solid black;padding: 0cm;height: 77.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:6.0pt;line-height:113%;'><span style="font-size:16px;line-height:  113%;">None</span></p>
+               
+            </td>
+        </tr>
+       
+	    
+        <tr>
+            <td style="width: 20.65pt;border-top: none;border-left: 1.5pt solid black;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 16.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:3.0pt;margin-right:  0cm;margin-bottom:.0001pt;margin-left:1.15pt;text-align:  center;'><strong><span style="font-size:11px;color:black;">3 </span></strong></p>
+            </td>
+            <td colspan="7" style="width: 445.7pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1.5pt solid black;background: rgb(219, 229, 241);padding: 0cm;height: 16.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:5.25pt;line-height:13.1pt;'><strong><span style="font-size:16px;color:black;">Competence</span></strong></p>
+            </td>
+        </tr>
+      
+        <tr>
+            <td style="width: 20.65pt;border-top: none;border-left: 1.5pt solid black;border-bottom: 1.5pt solid black;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 77.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'><strong><span style="font-size:12px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'><strong><span style="font-size:12px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'><strong><span style="font-size:12px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'><strong><span style="font-size:12px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.1pt;'><strong><span style="font-size:9px;">&nbsp;</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:2.55pt;margin-bottom:.0001pt;margin-left:4.4pt;text-align:center;'><span style="font-size:11px;color:black;">33</span></p>
+            </td>
+            <td style="width: 147.2pt;border-top: none;border-bottom: 1.5pt solid black;border-left: none;border-image: initial;border-right: 1pt solid black;padding: 0cm;height: 77.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.1pt;margin-right:0cm;margin-bottom:.0001pt;margin-left:5.25pt;line-height:120%;'><span style="font-size:13px;line-height:120%;">Explain the Intercommunication between different technologies involved in internet implementation and cloud computing.</span></p>
+            </td>
+            <td style="width: 44.3pt;border-top: none;border-bottom: 1.5pt solid black;border-left: none;border-image: initial;border-right: 1pt solid black;padding: 0cm;height: 77.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:6.0pt;line-height:13.1pt;'><span style="font-size:16px;">b</span></p>
+            </td>
+            <td style="width: 72.1pt;border-top: none;border-bottom: 1.5pt solid black;border-left: none;border-image: initial;border-right: 1pt solid black;padding: 0cm;height: 77.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:6.0pt;line-height:13.1pt;'><span style="font-size:16px;"> Quizz<br>  Assignment<br>  Final Project<br> </span></p>
+            </td>
+            <td colspan="2"  style="width: 39.05pt;border-top: none;border-bottom: 1.5pt solid black;border-left: none;border-image: initial;border-right: 1pt solid black;padding: 0cm;height: 77.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:6.0pt;line-height:13.1pt;'><span style="font-size:16px;">80.0</span></p>
+            </td>
+            <td style="width: 46.55pt;border-top: none;border-bottom: 1.5pt solid black;border-left: none;border-image: initial;border-right: 1pt solid black;padding: 0cm;height: 77.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:6.0pt;line-height:13.1pt;'><span style="font-size:16px;">0</span></p>
+            </td>
+            <td style="width: 96.5pt;border-top: none;border-bottom: 1.5pt solid black;border-left: none;border-image: initial;border-right: 1.5pt solid black;padding: 0cm;height: 77.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:6.0pt;line-height:113%;'><span style="font-size:16px;line-height:  113%;">None</span></p>
+               
+            </td>
+        </tr>
+       
+	    
+    </tbody>
+</table>
+
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.45pt;'><strong>&nbsp;</strong></p>
+<ol start="1" style="list-style-type: upper-alpha;margin-left:0px;">
+    <li>
+        <h1 style='margin-top:3.7pt;margin-right:0cm;margin-bottom:0cm;margin-left:20pt;text-indent:-17.3pt;font-size:19px;font-family:"Times New Roman",serif;'><span style="color:#365F91;">Course Quality&nbsp;</span><span style="color:#365F91;">Evaluation</span></h1>
+    </li>
+</ol>
+<ol style="list-style-type: decimal;">
+    <li>
+        <h2 style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0pt;text-indent:-12.8pt;font-size:17px;font-family:"Times New Roman",serif;'>&nbsp; &nbsp; Students Evaluation of the Quality of the Course</h2>
+    </li>
+</ol>
+<table style="width:100%;margin-left: 0pt;border-collapse:collapse;border:none;">
+    <tbody>
+        <tr>
+            <td rowspan="2" style="width: 58.2pt;border-width: 1.5pt 1pt 1pt 1.5pt;border-color: black;border-style: solid;background: rgb(242, 242, 242) none repeat scroll 0% 0%;padding: 0cm;height: 11.95pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:5.25pt;line-height:12.15pt;'><strong><span style="color:black;">Date&nbsp;of</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.1pt;margin-right:0cm;margin-bottom:.0001pt;margin-left:5.25pt;line-height:12.25pt;'><strong><span style="color:black;">Survey:</span></strong></p>
+            </td>
+            <td rowspan="2" style="width: 66.85pt;border-color: black black black currentcolor;border-style: solid solid solid none;border-width: 1.5pt 1pt 1pt medium;padding: 0cm;height: 11.95pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:5.3pt;margin-right:0cm;margin-bottom:.0001pt;margin-left:5.25pt;'><em><span style="font-size:16px;color:#000099;"></span></em></p>
+            </td>
+            <td rowspan="2" style="width: 72.1pt;border-color: black black black currentcolor;border-style: solid solid solid none;border-width: 1.5pt 1pt 1pt medium;background: rgb(242, 242, 242) none repeat scroll 0% 0%;padding: 0cm;height: 11.95pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:6.0pt;line-height:12.15pt;'><strong><span style="color:black;">Number&nbsp;of</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.1pt;margin-right:0cm;margin-bottom:.0001pt;margin-left:6.0pt;line-height:12.25pt;'><strong><span style="color:black;">Participants:</span></strong></p>
+            </td>
+            <td rowspan="2" style="width: 28.55pt;border-color: black black black currentcolor;border-style: solid solid solid none;border-width: 1.5pt 1pt 1pt medium;padding: 0cm;height: 11.95pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:5.3pt;margin-right:0cm;margin-bottom:.0001pt;margin-left:6.0pt;'><em><span style="font-size:16px;color:#000099;">0</span></em></p>
+            </td>
+            <td colspan="2" style="width: 76.6pt;border-color: black black currentcolor currentcolor;border-style: solid solid none none;border-width: 1.5pt 1pt medium medium;background: rgb(242, 242, 242) none repeat scroll 0% 0%;padding: 0cm;height: 11.95pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:5.95pt;line-height:11.0pt;'><strong><span style="color:black;">Percentage&nbsp;of</span></strong></p>
+            </td>
+            <td rowspan="2" style="width: 52.55pt;border-color: black black black currentcolor;border-style: solid solid solid none;border-width: 1.5pt 1pt 1pt medium;padding: 0cm;height: 11.95pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:5.3pt;margin-right:0cm;margin-bottom:.0001pt;margin-left:5.95pt;'><em><span style="font-size:16px;color:#000099;">0%</span></em></p>
+            </td>
+            <td rowspan="2" style="width: 63.1pt;border-color: black black black currentcolor;border-style: solid solid solid none;border-width: 1.5pt 1pt 1pt medium;background: rgb(242, 242, 242) none repeat scroll 0% 0%;padding: 0cm;height: 11.95pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:5.95pt;line-height:12.15pt;'><strong><span style="color:black;">Evaluation</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.1pt;margin-right:0cm;margin-bottom:.0001pt;margin-left:5.95pt;line-height:12.25pt;'><strong><span style="color:black;">Result:</span></strong></p>
+            </td>
+            <td rowspan="2" style="width: 48.4pt;border-color: black black black currentcolor;border-style: solid solid solid none;border-width: 1.5pt 1.5pt 1pt medium;padding: 0cm;height: 11.95pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:5.3pt;margin-right:0cm;margin-bottom:.0001pt;margin-left:5.95pt;'><em><span style="font-size:16px;color:#000099;"></span></em></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="width: 76.6pt;border-color: currentcolor black black currentcolor;border-style: none solid solid none;border-width: medium 1pt 1pt medium;background: rgb(242, 242, 242) none repeat scroll 0% 0%;padding: 0cm;height: 12.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:5.95pt;line-height:11.8pt;'><strong><span style="color:black;">Participation:</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="5" style="width: 269.25pt;border-color: currentcolor black black;border-style: none solid solid;border-width: medium 1pt 1pt 1.5pt;background: rgb(219, 229, 241) none repeat scroll 0% 0%;padding: 0cm;height: 25.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:5.5pt;margin-right:0cm;margin-bottom:.0001pt;margin-left:86.35pt;'><strong><span style="color:black;">Students&nbsp;Feedback</span></strong></p>
+            </td>
+            <td colspan="4" style="width: 197.1pt;border-color: currentcolor black black currentcolor;border-style: none solid solid none;border-width: medium 1.5pt 1pt medium;background: rgb(219, 229, 241) none repeat scroll 0% 0%;padding: 0cm;height: 25.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:22.45pt;line-height:12.15pt;'><strong><span style="color:black;">Course&nbsp;Coordinator/Instructor</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.1pt;margin-right:0cm;margin-bottom:.0001pt;margin-left:49.5pt;line-height:12.25pt;'><strong><span style="color:black;">Comments/Response</span></strong></p>
+            </td>
+        </tr>
+        
+    </tbody>
+</table>
+  <h1 style='margin-top:3.7pt;margin-right:0cm;margin-bottom:0cm;margin-left:0pt;font-size:19px;font-family:"Times New Roman",serif;'><span style="color:#365F91;">Course Improvement&nbsp;</span><span style="color:#365F91;">Plan</span></h1>
+ 
+        <h2 style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0pt;font-size:17px;font-family:"Times New Roman",serif;'>Course Improvement&nbsp;Actions</h2>
+   
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.5pt;margin-right:0cm;margin-bottom:.05pt;margin-left:0cm;'><strong><span style="font-size:9px;">&nbsp;</span></strong></p>
+<table style="width: 100%;border: solid;margin-left: 0pt;border-collapse:collapse;">
+    <tbody>
+        <tr>
+            <td  style="width: 25%;border-width: 1.5pt 1pt 1pt 1.5pt;border-color: black;border-style: solid;background: rgb(184, 204, 228);padding: 0cm;height: 25.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:0pt;margin-bottom:.0001pt;margin-left:0pt;text-align:center;line-height:12.95pt;'><strong><span style="font-size:16px;">Recommended</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:0pt;margin-bottom:.0001pt;margin-left:0pt;text-align:center;line-height:11.55pt;'><strong><span style="font-size:16px;color:black;">Actions</span></strong></p>
+            </td>
+            <td style="width: 25%;border-top: 1.5pt solid black;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 25.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:5.3pt;margin-right:  0pt;margin-bottom:.0001pt;margin-left:5.2pt;text-align:  center;'><strong><span style="font-size:16px;color:black;">Actions Taken</span></strong></p>
+            </td>
+            <td  style="width: 25%;border-top: 1.5pt solid black;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 25.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:5.3pt;margin-right:  0pt;margin-bottom:.0001pt;margin-left:0pt;text-align:center;'><strong><span style="font-size:16px;color:black;">Results</span></strong></p>
+            </td>
+            <td style="width: 25%;border-top: 1.5pt solid black;border-left: none;border-bottom: 1pt solid black;border-right: 1.5pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 25.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:5.3pt;margin-right:0cm;margin-bottom:.0001pt;margin-left:15.7pt;'><strong><span style="font-size:16px;color:black;">Comments</span></strong></p>
+            </td>
+            <td style="height:25.5pt;border:none;"><br></td>
+        </tr>
+       
+    </tbody>
+</table>
+<p><span style='font-size:15px;font-family:"Times New Roman",serif;'><br>&nbsp;</span></p>
+
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.45pt;'><strong>&nbsp;</strong></p>
+<div style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'>
+    <ol style="margin-bottom:0cm;list-style-type: disc;margin-left:0px;">
+        <li style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'>
+            <h2 style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0pt;text-indent:-12.8pt;font-size:17px;font-family:"Times New Roman",serif;'>&nbsp; &nbsp; &nbsp;Action&nbsp;Plan&nbsp;for Next&nbsp;Semester/Year</h2>
+        </li>
+    </ol>
+</div>
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'><strong><span style="font-size:13px;">&nbsp;</span></strong></p>
+<table style="width: 100%;margin-left: 0pt;border-collapse:collapse;border:solid;">
+    <tbody>
+        <tr>
+            <td  style="width: 20%;border-width: 1.5pt 1pt 1pt 1.5pt;border-color: black;border-style: solid;background: rgb(184, 204, 228);padding: 0cm;height: 13.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:9.8pt;margin-right:0cm;margin-bottom:.0001pt;margin-left:23.25pt;'><strong><span style="font-size:16px;">Recommendations</span></strong></p>
+            </td>
+            <td  style="width: 20%;border-top: 1.5pt solid black;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 13.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:9.8pt;margin-right:0cm;margin-bottom:.0001pt;margin-left:27.05pt;'><strong><span style="font-size:16px;color:black;">Actions</span></strong></p>
+            </td>
+            <td  style="width: 20%;border-top: 1.5pt solid black;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 13.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.15pt;margin-right:  12.4pt;margin-bottom:.0001pt;margin-left:13.45pt;text-align:center;line-height:102%;'><strong><span style="font-size:13px;line-height:102%;color:black;">Responsibility For</span></strong></p>
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:5.8pt;margin-bottom:.0001pt;margin-left:6.3pt;text-align:center;line-height:10.85pt;'><strong><span style="font-size:13px;color:black;">Implementati on</span></strong></p>
+            </td>
+            <td  style="width: 15%;border-top: 1.5pt solid black;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 13.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:16.45pt;margin-bottom:.0001pt;margin-left:17.95pt;text-align:center;line-height:12.55pt;'><strong><span style="font-size:16px;color:black;">Start Time</span></strong></p>
+            </td>
+            <td  style="width: 15%;border-top: 1.5pt solid black;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 13.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:16.45pt;margin-bottom:.0001pt;margin-left:17.95pt;text-align:center;line-height:12.55pt;'><strong><span style="font-size:16px;color:black;">End Time</span></strong></p>
+            </td>
+            <td  style="width: 10%;border-top: 1.5pt solid black;border-left: none;border-bottom: 1pt solid black;border-right: 1.5pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 13.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:2.3pt;margin-right:4.3pt;margin-bottom:.0001pt;margin-left:9.0pt;line-height:102%;'><strong><span style="font-size:16px;line-height:102%;color:black;">Needed Support</span></strong></p>
+            </td>
+        </tr>
+       
+        
+    </tbody>
+</table>
+
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'><strong><span style="font-size:13px;">&nbsp;</span></strong></p>
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.15pt;margin-right:0cm;margin-bottom:.05pt;margin-left:0cm;'><strong><span style="font-size:19px;">&nbsp;</span></strong></p>
+<table style="width: 100%;margin-left: 0pt;border-collapse:collapse;border:solid;">
+    <tbody>
+        <tr>
+            
+            <td colspan="2" style="width: 100%;border-top: 2.25pt solid black;border-left: none;border-bottom: 1pt solid black;border-right: 1.5pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 13.85pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:0pt;margin-bottom:.0001pt;margin-left:0pt;text-align:center;line-height:12.7pt;'><strong><span style="font-size:16px;color:black;">Theory Teacher</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 50%;border-top: none;border-left: 1.5pt solid black;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(219, 229, 241);padding: 0cm;height: 13.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:0pt;margin-bottom:.0001pt;margin-left:0pt;text-align:center;line-height:12.35pt;'><strong><span style="font-size:16px;color:black;">Name</span></strong></p>
+            </td>
+            <td style="width: 50%pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(219, 229, 241);padding: 0cm;height: 13.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:0pt;line-height:12.35pt;'><strong><span style="font-size:16px;color:black;">Signature</span></strong></p>
+            </td>
+			<tr>
+			 <td style="width: 50%;border-top: none;border-left: none;border-bottom: 1.5pt solid black;border-right: 1pt solid black;padding: 0cm;height: 18.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.8pt;margin-right:  0pt;margin-bottom:.0001pt;margin-left:0pt;text-align:center;'><strong><span style="font-size:16px;color:#17365D;"></span></strong></p>
+            </td>
+			 <td style="width: 50%;border-top: none;border-left: none;border-bottom: 1.5pt solid black;border-right: 1pt solid black;padding: 0cm;height: 18.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.8pt;margin-right:  0pt;margin-bottom:.0001pt;margin-left:0pt;text-align:center;'><strong><span style="font-size:16px;color:#17365D;"></span></strong></p>
+            </td>
+			</tr>
+			 <tr>
+            <td colspan="2" style="width: 100%;border-width: 2.25pt 1pt 1pt 1.5pt;border-color: black;border-style: solid;background: rgb(184, 204, 228);padding: 0cm;height: 13.85pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:0pt;margin-bottom:.0001pt;margin-left:0pt;text-align:center;line-height:12.7pt;'><strong><span style="font-size:16px;">Lab Teacher</span></strong></p>
+            </td>
+           
+        </tr>
+            <td style="width: 50%;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(219, 229, 241);padding: 0cm;height: 13.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:0pt;margin-bottom:.0001pt;margin-left:0pt;text-align:center;line-height:12.35pt;'><strong><span style="font-size:16px;color:black;">Name</span></strong></p>
+            </td>
+            <td style="width: 50%;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1.5pt solid black;background: rgb(219, 229, 241);padding: 0cm;height: 13.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-left:0pt;line-height:12.35pt;'><strong><span style="font-size:16px;color:black;">Signature</span></strong></p>
+            </td>
+        </tr>
+		
+    </tbody>
+</table>
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.45pt;'><strong><span style="font-size:16px;">&nbsp;</span></strong></p>
+<table style="width: 100%;margin-left: 0pt;border-collapse:collapse;border:solid;">
+    <tbody>
+        <tr>
+            <td colspan="3" style="width: 100%;border-width: 1.5pt 1.5pt 1pt;border-style: solid;border-color: black;border-image: initial;background: rgb(184, 204, 228);padding: 0cm;height: 13.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:0pt;margin-bottom:.0001pt;margin-left:0pt;text-align:center;line-height:12.5pt;'><strong><span style="font-size:16px;">Quality</span></strong><strong><span style="font-size:16px;color:black;">&nbsp;</span></strong><strong><span style="font-size:16px;color:black;">Coordinator</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 30%;border-top: none;border-left: 0pt solid black;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 13.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:0pt;margin-bottom:.0001pt;margin-left:0pt;text-align:center;line-height:12.5pt;'><strong><span style="font-size:16px;color:black;">Name</span></strong></p>
+            </td>
+            <td style="width: 40%;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 13.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:0pt;margin-bottom:.0001pt;margin-left:0pt;text-align:center;line-height:12.5pt;'><strong><span style="font-size:16px;color:black;">Signature</span></strong></p>
+            </td>
+            <td style="width: 30%;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1.5pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 13.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:38.75pt;margin-bottom:.0001pt;margin-left:38.1pt;text-align:center;line-height:12.5pt;'><strong><span style="font-size:16px;color:black;">Date</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 30%;border-top: none;border-left: 1.5pt solid black;border-bottom: 1.5pt solid black;border-right: 1pt solid black;padding: 0cm;height: 15.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:0pt;margin-bottom:.0001pt;margin-left:0pt;text-align:center;line-height:13.1pt;'><strong><span style="font-size:16px;color:#17365D;"></span></strong><strong><span style="font-size:16px;color:#17365D;"></span></strong></p>
+            </td>
+            <td style="width: 40%;border-top: none;border-left: none;border-bottom: 1.5pt solid black;border-right: 1pt solid black;padding: 0cm;height: 15.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'>&nbsp;</p>
+            </td>
+            <td style="width: 104pt;border-top: none;border-left: none;border-bottom: 1.5pt solid black;border-right: 1.5pt solid black;padding: 0cm;height: 15.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'>&nbsp;</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:.25pt;margin-right:0cm;margin-bottom:.05pt;margin-left:0cm;'><strong><span style="font-size:15px;">&nbsp;</span></strong></p>
+<table style="width: 100%;margin-left: 0pt;border-collapse:collapse;border:solid;">
+    <tbody>
+        <tr>
+            <td colspan="3" style="width: 100%;border-width: 1.5pt 1.5pt 1pt;border-style: solid;border-color: black;border-image: initial;background: rgb(184, 204, 228);padding: 0cm;height: 13.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:0pt;margin-bottom:.0001pt;margin-left:0pt;text-align:center;line-height:12.5pt;'><strong><span style="font-size:16px;"></span></strong><strong><span style="font-size:16px;color:black;">&nbsp;</span></strong><strong><span style="font-size:16px;color:black;">Program Coordinator</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 30%;border-top: none;border-left: 0pt solid black;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 13.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:0pt;margin-bottom:.0001pt;margin-left:0pt;text-align:center;line-height:12.5pt;'><strong><span style="font-size:16px;color:black;">Name</span></strong></p>
+            </td>
+            <td style="width: 40%;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 13.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:0pt;margin-bottom:.0001pt;margin-left:0pt;text-align:center;line-height:12.5pt;'><strong><span style="font-size:16px;color:black;">Signature</span></strong></p>
+            </td>
+            <td style="width: 30%;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1.5pt solid black;background: rgb(184, 204, 228);padding: 0cm;height: 13.5pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:38.75pt;margin-bottom:.0001pt;margin-left:38.1pt;text-align:center;line-height:12.5pt;'><strong><span style="font-size:16px;color:black;">Date</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 30%;border-top: none;border-left: 1.5pt solid black;border-bottom: 1.5pt solid black;border-right: 1pt solid black;padding: 0cm;height: 15.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;margin-top:0cm;margin-right:0pt;margin-bottom:.0001pt;margin-left:0pt;text-align:center;line-height:13.1pt;'><strong><span style="font-size:16px;color:#17365D;"></span></strong></p>
+            </td>
+            <td style="width: 40%;border-top: none;border-left: none;border-bottom: 1.5pt solid black;border-right: 1pt solid black;padding: 0cm;height: 15.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'>&nbsp;</p>
+            </td>
+            <td style="width: 104pt;border-top: none;border-left: none;border-bottom: 1.5pt solid black;border-right: 1.5pt solid black;padding: 0cm;height: 15.75pt;vertical-align: top;">
+                <p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'>&nbsp;</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p style='margin:0cm;font-size:15px;font-family:"Times New Roman",serif;'>&nbsp;</p>

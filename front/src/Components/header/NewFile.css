@@ -1,0 +1,140 @@
+:root {
+  --body-bg: #f5f8ff;
+  --box-bg: #fff;
+  --input-bg: #f5f8ff;
+  --txt-color: #2f2d2f;
+  --txt-second-color: #ccc;
+  --border-color: #4267b2;
+  --box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.newFile {
+  display: flex;
+  align-items: center;
+  padding: 12px 0;
+  padding-left: 20px;
+}
+
+.newFilebtn {
+  padding: 10px 15px !important;
+  box-shadow: 0 1px 2px 0 rgba(60, 64, 67, 0.302),
+    0 1px 3px 1px rgba(60, 64, 67, 0.149) !important;
+  font-weight: 600 !important;
+}
+.newFilebtn svg {
+  margin-right: 5px;
+}
+
+.drop-file-input {
+  position: relative;
+  width: 400px;
+  height: 200px;
+  border: 2px dashed black;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--input-bg);
+}
+
+.drop-file-input input {
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+.drop-file-input:hover,
+.drop-file-input.dragover {
+  opacity: 0.6;
+}
+
+.drop-file-input__label {
+  text-align: center;
+  color: var(--txt-second-color);
+  font-weight: 600;
+  padding: 10px;
+}
+
+.drop-file-input__label img {
+  width: 100px;
+}
+
+.drop-file-preview {
+  margin-top: 30px;
+}
+
+.drop-file-preview p {
+  font-weight: 500;
+}
+
+.drop-file-preview__title {
+  margin-bottom: 20px;
+}
+
+.drop-file-preview__item {
+  position: relative;
+  display: flex;
+  margin-bottom: 10px;
+  background-color: rgba(211, 211, 211, 0.5);
+  padding: 15px;
+  border-radius: 20px;
+  width: 100%;
+}
+
+.drop-file-preview__item img {
+  width: 50px;
+  margin-right: 20px;
+}
+
+.drop-file-preview__item__info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.dropdel {
+  background-color: rgba(211, 211, 211, 0.8);
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  right: 8px;
+  top: 20%;
+  transform: translateY(-50%);
+  box-shadow: var(--box-shadow);
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.drop-file-preview__item:hover .dropdel {
+  opacity: 1;
+}
+
+.loading1 {
+  width: 35vw;
+  height: 20vh;
+  background-color: rgba(173, 216, 230, 0.05);
+  display: grid;
+  place-items: center;
+  max-width: 100%;
+}
+
+.loading1 > div {
+  width: 5vmax;
+  height: 5vmax;
+  border-bottom: 5px solid rgba(0, 0, 0, 0.719);
+  border-radius: 50%;
+  animation: loadingRotate 800ms linear infinite;
+}
+
+@keyframes loadingRotate {
+  to {
+    transform: rotateZ(-360deg);
+  }
+}

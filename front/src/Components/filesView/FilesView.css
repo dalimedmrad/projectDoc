@@ -1,0 +1,17 @@
+.fileView {
+  width: 100% !important;
+  margin: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+}
+.fileView1 {
+  width: 96%;
+  margin: 0 auto;
+  border-radius: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  padding: 0 2.5%;
+}
