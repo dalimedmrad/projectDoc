@@ -1,6 +1,14 @@
+.doccpage {
+  width: 100%;
+  padding: 0 1%;
+}
+.docctit {
+  background-color: red;
+  padding: 1% auto;
+  display: flex;
+  justify-content: space-between;
+}
 .docc {
   width: 90%;
   margin: 1% auto;
-  display: inline-block;
-  text-align: left;
 }

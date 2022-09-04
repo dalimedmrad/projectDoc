@@ -24,14 +24,14 @@ export const PostDoc = createAsyncThunk("postDoc", async (doc, dispatch) => {
 export const UpdateDoc = createAsyncThunk(
   "UpdateDoc",
   async (doc, dispatch) => {
-    console.log(doc);
+    // console.log(doc);
     try {
       const { data } = await axios.put(
         `http://localhost:5000/api/doc/${doc._id}`,
         doc
       );
-      dispatch(getallDocs());
-      // console.log(data);
+      // dispatch(getallDocs());
+      console.log(data);
       return data;
     } catch (error) {
       console.log(error);
@@ -48,8 +48,18 @@ export const DeleteDoc = createAsyncThunk("delDoc", async (id, dispatch) => {
     console.log(error);
   }
 });
+
+export const getOneById = createAsyncThunk("getOneById", async (id) => {
+  try {
+    const { data } = await axios.get(`http://localhost:5000/api/doc/${id}`);
+    return data;
+  } catch (error) {
+    console.log(error);
+  }
+});
 const initialState = {
   document: null,
+  docMSG: null,
   allDocuments: null,
   status: null,
 };
@@ -93,8 +103,20 @@ export const DocSlice = createSlice({
     },
     [UpdateDoc.fulfilled]: (state, action) => {
       state.status = "success";
+      state.docMSG = action.payload.msg;
     },
-    [UpdateDoc.rejected]: (state) => {
+    [UpdateDoc.rejected]: (state, action) => {
+      state.status = "failed";
+      state.docMSG = action.payload.msg;
+    },
+    [getOneById.pending]: (state) => {
+      state.status = "pending";
+    },
+    [getOneById.fulfilled]: (state, action) => {
+      state.status = "success";
+      state.document = action.payload.response;
+    },
+    [getOneById.rejected]: (state, action) => {
       state.status = "failed";
     },
   },

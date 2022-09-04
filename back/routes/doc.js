@@ -12,11 +12,11 @@ router.post("/", async (req, res) => {
     res.status(200).send({
       msg: "Doc is saved",
       Doc: newDoc,
-    }); 
+    });
   } catch (error) {
     res.status(500).send("can not save");
     console.log(error);
-  }   
+  }
 });
 
 router.get("/", async (req, res) => {
@@ -28,6 +28,14 @@ router.get("/", async (req, res) => {
   }
 });
 
+router.get("/:id", async (req, res) => {
+  try {
+    const result = await Doc.findOne({ _id: req.params.id });
+    res.send({ response: result, message: "Geting Docs successful" });
+  } catch (error) {
+    res.status(400).send({ message: "Can not get Docs" });
+  }
+});
 router.delete("/:id", async (req, res) => {
   console.log(req.params.id);
   try {
