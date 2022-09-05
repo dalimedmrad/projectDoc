@@ -21,23 +21,17 @@ export const PostDoc = createAsyncThunk("postDoc", async (doc, dispatch) => {
     console.log(error);
   }
 });
-export const UpdateDoc = createAsyncThunk(
-  "UpdateDoc",
-  async (doc, dispatch) => {
-    // console.log(doc);
-    try {
-      const { data } = await axios.put(
-        `http://localhost:5000/api/doc/${doc._id}`,
-        doc
-      );
-      // dispatch(getallDocs());
-      console.log(data);
-      return data;
-    } catch (error) {
-      console.log(error);
-    }
+export const UpdateDoc = createAsyncThunk("UpdateDoc", async (doc) => {
+  try {
+    const { data } = await axios.put(
+      `http://localhost:5000/api/doc/${doc._id}`,
+      doc
+    );
+    return data;
+  } catch (error) {
+    console.log(error);
   }
-);
+});
 export const DeleteDoc = createAsyncThunk("delDoc", async (id, dispatch) => {
   try {
     const { data } = await axios.delete(`http://localhost:5000/api/doc/${id}`);
@@ -49,14 +43,14 @@ export const DeleteDoc = createAsyncThunk("delDoc", async (id, dispatch) => {
   }
 });
 
-export const getOneById = createAsyncThunk("getOneById", async (id) => {
-  try {
-    const { data } = await axios.get(`http://localhost:5000/api/doc/${id}`);
-    return data;
-  } catch (error) {
-    console.log(error);
-  }
-});
+// export const getOneById = createAsyncThunk("getOneById", async (id) => {
+//   try {
+//     const { data } = await axios.get(`http://localhost:5000/api/doc/${id}`);
+//     return data;
+//   } catch (error) {
+//     console.log(error);
+//   }
+// });
 const initialState = {
   document: null,
   docMSG: null,
@@ -109,16 +103,16 @@ export const DocSlice = createSlice({
       state.status = "failed";
       state.docMSG = action.payload.msg;
     },
-    [getOneById.pending]: (state) => {
-      state.status = "pending";
-    },
-    [getOneById.fulfilled]: (state, action) => {
-      state.status = "success";
-      state.document = action.payload.response;
-    },
-    [getOneById.rejected]: (state, action) => {
-      state.status = "failed";
-    },
+    // [getOneById.pending]: (state) => {
+    //   state.status = "pending";
+    // },
+    // [getOneById.fulfilled]: (state, action) => {
+    //   state.status = "success";
+    //   state.document = action.payload.response;
+    // },
+    // [getOneById.rejected]: (state, action) => {
+    //   state.status = "failed";
+    // },
   },
 });
 

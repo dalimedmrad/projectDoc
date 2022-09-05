@@ -31,7 +31,7 @@ router.get("/", async (req, res) => {
 router.get("/:id", async (req, res) => {
   try {
     const result = await Doc.findOne({ _id: req.params.id });
-    res.send({ response: result, message: "Geting Docs successful" });
+    res.send({ response: result, message: "Geting Doc with successful" });
   } catch (error) {
     res.status(400).send({ message: "Can not get Docs" });
   }
@@ -50,12 +50,8 @@ router.put("/:id", async (req, res) => {
   // console.log(req.params.id);
   // console.log(req.body);
   try {
-    const result = await Doc.updateOne(
-      { _id: req.params.id },
-      { $set: req.body }
-    );
+    await Doc.updateOne({ _id: req.params.id }, { $set: req.body });
     res.status(200).send({
-      result: result,
       msg: `Votre modification a été sauvgardé`,
     });
   } catch (error) {

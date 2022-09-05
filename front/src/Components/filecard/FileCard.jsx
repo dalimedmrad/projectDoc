@@ -54,11 +54,11 @@ const FileCard = ({ el, setPing, ping }) => {
     setShow(true);
   };
 
-  // const handleGo = () => {
-  //   navigate(`/file/${el._id}`, {
-  //     state: { el },
-  //   });
-  // };
+  const handleGo = () => {
+    navigate(`/file/${el._id}`, {
+      state: { el },
+    });
+  };
   // const defaultLayoutPluginInstance = defaultLayoutPlugin({
   //   sidebarTabs: (defaultTabs) => [
   //     // Remove the attachments tab (\`defaultTabs[2]\`)
@@ -101,12 +101,18 @@ const FileCard = ({ el, setPing, ping }) => {
         {el.file.fileType.includes("officedocument") && (
           <img className="img1" alt="" onClick={handleShow} src={docs} />
         )}
-        {el.file.fileType === "text/plain" && (
-          <Link target="_blank" to={`/file/${el._id}`} state={{ el: el }}>
-            {" "}
-            <img className="img1" alt="" src={file} />
-          </Link>
-        )}
+        {
+          el.file.fileType === "text/plain" && (
+            // <Link
+            //   target="_blank"
+            //   onClick={() => handleGo()}
+            //   to={`/file/${el._id}`}
+            // >
+
+            <img className="img1" alt="" onClick={handleGo} src={file} />
+          )
+          // </Link>
+        }
         <span
           className="drop-file-preview__item__del"
           onClick={(e) => handelDel(e)}
