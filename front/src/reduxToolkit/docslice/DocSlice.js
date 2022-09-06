@@ -21,17 +21,17 @@ export const PostDoc = createAsyncThunk("postDoc", async (doc, dispatch) => {
     console.log(error);
   }
 });
-export const UpdateDoc = createAsyncThunk("UpdateDoc", async (doc) => {
-  try {
-    const { data } = await axios.put(
-      `http://localhost:5000/api/doc/${doc._id}`,
-      doc
-    );
-    return data;
-  } catch (error) {
-    console.log(error);
-  }
-});
+// export const UpdateDoc = createAsyncThunk("UpdateDoc", async (doc) => {
+//   try {
+//     const { data } = await axios.put(
+//       `http://localhost:5000/api/doc/${doc._id}`,
+//       doc
+//     );
+//     return data;
+//   } catch (error) {
+//     console.log(error);
+//   }
+// });
 export const DeleteDoc = createAsyncThunk("delDoc", async (id, dispatch) => {
   try {
     const { data } = await axios.delete(`http://localhost:5000/api/doc/${id}`);
@@ -92,17 +92,17 @@ export const DocSlice = createSlice({
     [DeleteDoc.rejected]: (state) => {
       state.status = "failed";
     },
-    [UpdateDoc.pending]: (state) => {
-      state.status = "pending";
-    },
-    [UpdateDoc.fulfilled]: (state, action) => {
-      state.status = "success";
-      state.docMSG = action.payload.msg;
-    },
-    [UpdateDoc.rejected]: (state, action) => {
-      state.status = "failed";
-      state.docMSG = action.payload.msg;
-    },
+    // [UpdateDoc.pending]: (state) => {
+    //   state.status = "pending";
+    // },
+    // [UpdateDoc.fulfilled]: (state, action) => {
+    //   state.status = "success";
+    //   state.docMSG = action.payload.msg;
+    // },
+    // [UpdateDoc.rejected]: (state, action) => {
+    //   state.status = "failed";
+    //   state.docMSG = action.payload.msg;
+    // },
     // [getOneById.pending]: (state) => {
     //   state.status = "pending";
     // },

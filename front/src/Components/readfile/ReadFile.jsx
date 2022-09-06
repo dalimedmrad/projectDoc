@@ -1,16 +1,18 @@
 import React, { useEffect, useState } from "react";
 import { CKEditor } from "@ckeditor/ckeditor5-react";
 import ClassicEditor from "@ckeditor/ckeditor5-build-classic";
-import { useLocation, useParams } from "react-router-dom";
-import { useDispatch, useSelector } from "react-redux";
+import { useLocation } from "react-router-dom";
+import { useDispatch } from "react-redux";
 import Loader from "../Loader/Loader";
 import "./content-styles.css";
-import { UpdateDoc } from "../../reduxToolkit/docslice/DocSlice";
+// import { UpdateDoc } from "../../reduxToolkit/docslice/DocSlice";
 import axios from "axios";
 import Swal from "sweetalert2";
+import { getallDocs } from "../../reduxToolkit/docslice/DocSlice";
+
 
 const ReadFile = () => {
-  // const dispatch = useDispatch();
+  const dispatch = useDispatch();
   const location = useLocation();
   // const { id } = useParams();
   const { el } = location.state;
@@ -43,6 +45,7 @@ const ReadFile = () => {
         timer: 1500,
       });
       setupdatedoc(false);
+      dispatch(getallDocs());
     } catch (error) {
       console.log(error);
     }
@@ -55,7 +58,7 @@ const ReadFile = () => {
   };
   useEffect(() => {
     setDocument(el);
-  }, []);
+  }, [el]);
 
   return (
     <>
@@ -84,8 +87,7 @@ const ReadFile = () => {
               }}
               // onBlur={}
             />
-            {/* {document?.text} */}
-          </div>
+            </div>
         </div>
       ) : (
         <Loader />
